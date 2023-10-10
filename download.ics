@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 15.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=gokul.selvarasu@changepond.com;RSVP=TRUE:mailto:gokul.selvarasu
+	@changepond.com
+ATTENDEE;CN=thamaraiselvan.s@changepond.com;RSVP=TRUE:mailto:thamaraiselvan
+	.s@changepond.com
+ATTENDEE;CN=yogeshwaran.K@changepond.com;RSVP=TRUE:mailto:yogeshwaran.K@cha
+	ngepond.com
+ATTENDEE;CN=parthasarathy.j@changepond.com;RSVP=TRUE:mailto:parthasarathy.j
+	@changepond.com
+ATTENDEE;CN=santhosh.g@changepond.com;RSVP=TRUE:mailto:santhosh.g@changepon
+	d.com
+ATTENDEE;CN=deepak.n@changepond.com;RSVP=TRUE:mailto:deepak.n@changepond.co
+	m
+ATTENDEE;CN=vasudevan.k@changepond.com;RSVP=TRUE:mailto:vasudevan.k@changep
+	ond.com
+ATTENDEE;CN=mohamed.zubair@changepond.com;RSVP=TRUE:mailto:mohamed.zubair@c
+	hangepond.com
+ATTENDEE;CN=dolakrishna.k@changepond.com;RSVP=TRUE:mailto:dolakrishna.k@cha
+	ngepond.com
+ATTENDEE;CN=kishorekumar.g@changepond.com;RSVP=TRUE:mailto:kishorekumar.g@c
+	hangepond.com
+ATTENDEE;CN=sakthivel.ravi@changepond.com;RSVP=TRUE:mailto:sakthivel.ravi@c
+	hangepond.com
+ATTENDEE;CN=sivabalamurugan.s@changepond.com;RSVP=TRUE:mailto:sivabalamurug
+	an.s@changepond.com
+ATTENDEE;CN=naveen.k@changepond.com;RSVP=TRUE:mailto:naveen.k@changepond.co
+	m
+ATTENDEE;CN=raj.sivaram@changepond.com;RSVP=TRUE:mailto:raj.sivaram@changep
+	ond.com
+ATTENDEE;CN=sivanesan.j@changepond.com;RSVP=TRUE:mailto:sivanesan.j@changep
+	ond.com
+ATTENDEE;CN=gowtham.c@changepond.com;RSVP=TRUE:mailto:gowtham.c@changepond.
+	com
+ATTENDEE;CN=ramesh.srinivasan@changepond.com;RSVP=TRUE:mailto:ramesh.sriniv
+	asan@changepond.com
+ATTENDEE;CN=srinivasank@changepond.com;ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailt
+	o:srinivasank@changepond.com
+ATTENDEE;CN="'Srinivas Katta'";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:katta@
+	changepond.com
+ATTENDEE;CN="Balaji Subramaniam D";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:ba
+	lajid@changepond.com
+ATTENDEE;CN="Kishore Kumar M M";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:kisho
+	rekumar.mm@changepond.com
+CLASS:PUBLIC
+CREATED:20231004T122511Z
+DESCRIPTION:Dear Team\,\n\nOn boarding Infosec session is planned from 15:3
+	0 hrs to 16:30 hrs on 05th October 2023. It is mandatory for each one of t
+	hem to attend the session.\n\nRegards\,\nVijaya Kumar B\nOffice of CISO\n\
+	n
+DTEND;TZID="India Standard Time":20231005T163000
+DTSTAMP:20231004T122511Z
+DTSTART;TZID="India Standard Time":20231005T153000
+LAST-MODIFIED:20231004T122511Z
+LOCATION:Ground floor - Training Room II
+ORGANIZER;CN="Vijayakumar B (O/o CISO)":mailto:vijayakumar.b@changepond.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-in:Information Security Awareness Session - Septmeber"2
+	023 Batch 
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C070F360E9F6D901000000000000000
+	0100000002F311B475AAD984EA2336B243F4CE2FA
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-in"><FONT COLOR="#00
+	0000" FACE="Calibri">Dear Team\,</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="en-in"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-in"><FONT COLOR="#00000
+	0" FACE="Calibri">On boarding Infosec session is planned from 1</FONT></SP
+	AN><SPAN LANG="en-in"><FONT COLOR="#000000" FACE="Calibri">5</FONT></SPAN>
+	<SPAN LANG="en-in"><FONT COLOR="#000000" FACE="Calibri">:</FONT></SPAN><SP
+	AN LANG="en-in"><FONT COLOR="#000000" FACE="Calibri">3</FONT></SPAN><SPAN 
+	LANG="en-in"><FONT COLOR="#000000" FACE="Calibri">0 hrs to 16:30 hrs</FONT
+	></SPAN><A NAME=""><SPAN LANG="en-in"><FONT COLOR="#000000" FACE="Calibri"
+	> on</FONT></SPAN></A><SPAN LANG="en-in"> <FONT COLOR="#000000" FACE="Cali
+	bri">05</FONT></SPAN><SPAN LANG="en-in"><SUP><FONT COLOR="#000000" FACE="C
+	alibri">th</FONT></SUP></SPAN><SPAN LANG="en-in"><FONT COLOR="#000000" FAC
+	E="Calibri"> October</FONT></SPAN><SPAN LANG="en-in"><FONT COLOR="#000000"
+	 FACE="Calibri"> 2023</FONT></SPAN><SPAN LANG="en-in"><FONT COLOR="#000000
+	" FACE="Calibri">. It is mandatory for each one of them to attend the sess
+	ion.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-in"></SPAN></P>\n\n<P 
+	DIR=LTR><SPAN LANG="en-in"></SPAN><SPAN LANG="en-in"><FONT COLOR="#000000"
+	 FACE="Calibri">Regards\,</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-i
+	n"><FONT COLOR="#000000" FACE="Calibri">Vijaya Kumar B</FONT></SPAN></P>\n
+	\n<P DIR=LTR><SPAN LANG="en-in"><FONT COLOR="#000000" FACE="Calibri">Offic
+	e of CISO</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-in"></SPAN></P>\n
+	\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
